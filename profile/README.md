@@ -1,5 +1,4 @@
 <div align="center">
-<img alt="openapi-stack" src="https://github.com/openapistack/docs/blob/main/static/img/header.png?raw=true" style="max-width:50rem">
 <h1><a href="https://openapistack.co">openapistack.co</a></h1>
 <h3>Full stack typesafe API-first development for REST.</h3>
 
