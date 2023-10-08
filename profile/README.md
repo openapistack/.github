@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Full stack typesafe API-first development for REST.</h1>
+<h1>Full stack typesafe API-first development for REST</h1>
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/anttiviljami/openapi-stack/blob/master/LICENSE)
 [![npm downloads](https://img.shields.io/npm/dw/openapi-backend)](https://www.npmjs.com/package/openapi-backend)
