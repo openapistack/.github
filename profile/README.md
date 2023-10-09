@@ -28,6 +28,8 @@ The goal is to unlock great developer experience and full stack type safety for 
 - [x] ❤️ OpenAPI 3.x support
 - [x] 👀 [Samples](https://openapistack.co/docs/examples/boilerplate/) included
 
+## Comparison
+
 <details>
 <summary><b>How does openapi-stack compare to <i>GraphQL</i>?</b></summary>
 
