@@ -18,15 +18,26 @@ The goal is to unlock great developer experience and full stack type safety for 
 - [openapistack/openapi-client-axios ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapi-client-axios?style=social)](https://github.com/anttiviljami/openapi-client-axios)
 - [openapistack/openapicmd ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapicmd?style=social)](https://github.com/anttiviljami/openapicmd)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=openapistack/openapi-backend,openapistack/openapi-client-axios,openapistack/openapicmd,openapistack/docs&type=Date)](https://star-history.com/#openapistack/openapi-backend&openapistack/openapi-client-axios&openapistack/openapicmd&openapistack/docs&Date)
+
+## Benefits
+
+1. 🚀 **No code generation.** Write your own code the way you like it. Only generate types from OpenAPI spec if you want.
+1. 🤝 **Single source of truth for your API contract.** No more manually updating your OpenAPI specs to keep up with your backend code. Ensure your API docs and SDKs stay up to date by using the spec in runtime to route and validate.
+1. 🧙‍♂️ **Type safety and validation.** Build your product faster and with a better developer experience using strongly typed Typescript and code autocomplete both in the server and client side.
+1. ❤️ **Testing & Collaboration.** Leverage API mocks to make testing and development easier and iterate fast on your API design as you build your app's interface. Being blocked by the backend team is a thing of the past!
+
 ## Features
 
-- [x] 🚀 Battle-tested in production. High test coverage.
-- [x] 🤝 Built with TypeScript, types included with full autocomplete support
-- [x] 🥃 Framework agnostic – works with your stack
-- [x] 🏎 Lightweight - small frontend bundle + optimized for serverless cold starts
-- [x] 🧙‍♂️ No code generation – we only generate types
-- [x] ❤️ OpenAPI 3.x support
-- [x] 👀 [Samples](https://openapistack.co/docs/examples/boilerplate/) included
+- [x] Battle-tested in production. High test coverage.
+- [x] Built with TypeScript, types included with full autocomplete support
+- [x] Framework agnostic – works with your stack
+- [x] Lightweight - small frontend bundle + optimized for serverless cold starts
+- [x] No code generation – we only generate types
+- [x] OpenAPI 3.x support
+- [x] [Samples](https://openapistack.co/docs/examples/boilerplate/) included
 
 ## Comparison
 
@@ -58,10 +69,6 @@ Unlike GraphQL and REST, tRPC doesn't expose a standard machine-readable API sch
 OpenAPI stack achieves type safety using a similar workflow to tRPC's procedures with [*OpenAPI operations*](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md#operation-object), also avoiding code generation by only generating types from OpenAPI spec and using the machine readable contract in the runtime for routing and validation.
 
 While the lightweight tRPC approach is optimal for teams just looking to build full stack applications, teams looking to build robust APIs are better served by the API design first approach of openapi-stack or GraphQL.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=openapistack/openapi-backend,openapistack/openapi-client-axios,openapistack/openapicmd,openapistack/docs&type=Date)](https://star-history.com/#openapistack/openapi-backend&openapistack/openapi-client-axios&openapistack/openapicmd&openapistack/docs&Date)
 
 </details>
 
