@@ -18,10 +18,6 @@ The goal is to unlock great developer experience and full stack type safety for 
 - [openapistack/openapi-client-axios ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapi-client-axios?style=social)](https://github.com/anttiviljami/openapi-client-axios)
 - [openapistack/openapicmd ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapicmd?style=social)](https://github.com/anttiviljami/openapicmd)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=openapistack/openapi-backend,openapistack/openapi-client-axios,openapistack/openapicmd,openapistack/docs&type=Date)](https://star-history.com/#openapistack/openapi-backend&openapistack/openapi-client-axios&openapistack/openapicmd&openapistack/docs&Date)
-
 ## Benefits
 
 1. 🚀 **No code generation.** Write your own code the way you like it. Only generate types from OpenAPI spec if you want.
@@ -72,8 +68,10 @@ While the lightweight tRPC approach is optimal for teams just looking to build f
 
 </details>
 
-## API First Cycle
+## Star History
 
-![API First Cycle](https://github.com/openapistack/docs/blob/main/static/img/openapi-stack.drawio.png?raw=true)
+[![Star History Chart](https://api.star-history.com/svg?repos=openapistack/openapi-backend,openapistack/openapi-client-axios,openapistack/openapicmd,openapistack/docs&type=Date)](https://star-history.com/#openapistack/openapi-backend&openapistack/openapi-client-axios&openapistack/openapicmd&openapistack/docs&Date)
 
-[Why API First?](https://openapistack.co/docs/api-first)
+## Commercial support
+
+For assistance with integrating openapi-stack for your company, reach out at support@openapistack.co.
