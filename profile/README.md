@@ -18,6 +18,28 @@ The goal is to unlock great developer experience and full stack type safety for 
 - [openapistack/openapi-client-axios ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapi-client-axios?style=social)](https://github.com/anttiviljami/openapi-client-axios)
 - [openapistack/openapicmd ![GitHub Repo stars](https://img.shields.io/github/stars/anttiviljami/openapicmd?style=social)](https://github.com/anttiviljami/openapicmd)
 
+## Who uses openapi-stack
+
+Battle-tested in production by 30+ verified teams — including Microsoft, IBM, SAP, AWS< GitHub, Visma, Red Hat, Notion, Conductor, Intel.
+
+[**See who uses openapi-stack →**](https://openapistack.co/users/)
+
+## Contributors
+
+openapi-stack is built by dozens of contributors across the project's repositories.
+
+[**See all contributors →**](https://openapistack.co/#contributors)
+
+<a href="https://github.com/openapistack/openapi-backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=openapistack/openapi-backend" alt="openapi-backend contributors" />
+</a>
+<a href="https://github.com/openapistack/openapi-client-axios/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=openapistack/openapi-client-axios" alt="openapi-client-axios contributors" />
+</a>
+<a href="https://github.com/openapistack/openapicmd/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=openapistack/openapicmd" alt="openapicmd contributors" />
+</a>
+
 ## Benefits
 
 1. 🚀 **No code generation.** Write your own code the way you like it. Only generate types from OpenAPI spec if you want.
