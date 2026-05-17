@@ -25,13 +25,13 @@ Battle-tested in production by 30+ verified teams — including Microsoft, IBM, 
 <p align="center">
   <a href="https://openapistack.co/users/#microsoft"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#ibm"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openapistack.co/users/#sap"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/640px-SAP_2011_logo.svg.png" alt="SAP" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openapistack.co/users/#sap"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#aws"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openapistack.co/users/#visma"><img height="36" src="https://upload.wikimedia.org/wikipedia/fi/thumb/2/2b/Visma_logo.svg/640px-Visma_logo.svg.png" alt="Visma" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openapistack.co/users/#visma"><img height="36" src="https://upload.wikimedia.org/wikipedia/fi/2/2b/Visma_logo.svg" alt="Visma" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#redhat"><img height="36" src="https://cdn.simpleicons.org/redhat" alt="Red Hat" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#notion"><img height="36" src="https://cdn.simpleicons.org/notion" alt="Notion" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#conductor"><img height="36" src="https://avatars.githubusercontent.com/u/153258413?s=200&v=4" alt="Conductor" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openapistack.co/users/#intel-geti"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Intel_logo_2023.svg/640px-Intel_logo_2023.svg.png" alt="Intel" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openapistack.co/users/#intel-geti"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg" alt="Intel" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openapistack.co/users/#fastly"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Fastly_logo.svg" alt="Fastly" /></a>
 </p>
 
