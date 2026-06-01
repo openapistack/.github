@@ -43,16 +43,6 @@ openapi-stack is built by dozens of contributors across the project's repositori
 
 [**See all contributors →**](https://openapistack.co/#contributors)
 
-<a href="https://github.com/openapistack/openapi-backend/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=openapistack/openapi-backend" alt="openapi-backend contributors" />
-</a>
-<a href="https://github.com/openapistack/openapi-client-axios/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=openapistack/openapi-client-axios" alt="openapi-client-axios contributors" />
-</a>
-<a href="https://github.com/openapistack/openapicmd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=openapistack/openapicmd" alt="openapicmd contributors" />
-</a>
-
 ## Benefits
 
 1. 🚀 **No code generation.** Write your own code the way you like it. Only generate types from OpenAPI spec if you want.
